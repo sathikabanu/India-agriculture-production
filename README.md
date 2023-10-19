@@ -6,4 +6,6 @@ https://public.tableau.com/views/dashboard2_16976146210740/Dashboard3?:language=
 story public link:https://public.tableau.com/views/story1_16976147021230/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link
 https://public.tableau.com/views/story2_16976147496610/Story2?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-video demonstration link:https://github.com/sathikabanu/India-agriculture-production/blob/main/project%20report%20and%20video%20demonstration/InShot_20231019_111540159.mp4
+video demonstration link:
+https://drive.google.com/file/d/1bu_Ou_33tbaBOSvuUpiEFDW5MDJynran/view?usp=drivesdk
+
